@@ -11,7 +11,7 @@ npm run preview  # serve the build locally
 ```
 
 ## Deploy
-Push to GitHub, import the repo in Vercel. Framework preset: Vite. Build command `npm run build`, output `dist`. No environment variables needed.
+Vercel Link 'https://fermor-seven.vercel.app/'. Framework preset: Vite. Build command `npm run build`, output `dist`. No environment variables needed.
 
 ## Decisions
 - **Positioning** uses only Fermor's own line: understand, act, grow. No invented stats, partners or certifications.
